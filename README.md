@@ -22,8 +22,7 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 - matplotlib
 
 ### 2. Project Motivation
-This project is the Capstone project of my Data Scientist nanodegree with Udacity. As students in the nanodegree, we have the option to take part in the Starbucks Capstone Challenge.
-For the challenge, Udacity provided simulated data that mimics customer behavior on the Starbucks rewards mobile app.
+For the challenge,simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
 In this project, I use the data to answer 2 business questions:
 
@@ -41,6 +40,6 @@ As a brief summary of my findings:
 This repo contains 4 files. The report of my project is called 'Starbucks Capstone Challenge - Using Starbucks app user data to predict effective offers.ipynb'. 
 The data used in the project is in the files portfolio.json, profile.json and transcript.json. 
 
-### 4. Licensing, Authors, Acknowledgements, etc.
 
-Data for coding project was provided by Udacity.
+
+
